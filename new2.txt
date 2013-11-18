@@ -3,3 +3,7 @@ test2
 test3
 test branch
 test4
+<<<<<<< HEAD
+=======
+test5
+>>>>>>> testing
